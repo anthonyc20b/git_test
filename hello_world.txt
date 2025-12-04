@@ -1,1 +1,2 @@
 "This is just for fun, I am adding random text to see what happens"
+"This is an additional test to see how this works with the adjusted git message feature"
